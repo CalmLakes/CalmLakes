@@ -1,3 +1,7 @@
+# Fili Oakenshield
+![Shire](shire.jpeg)
+
+# About Me
 - 👋 Hi, I’m Fili
 - 👀 I’m interested in wouldn't they like to know
 - 🌱 I’m currently learning x86

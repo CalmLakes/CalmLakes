@@ -9,9 +9,6 @@ Below are a couple of notes about myself
 - 💞️ I am not really looking to collaborate on anything but if I were it would be some sort of HDL project
 - 🇳🇿 I'm located in the shire 😉
 
-| header |
-|:------:|
-| mytable |
 
 <!---
 

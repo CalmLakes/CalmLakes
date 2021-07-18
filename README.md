@@ -1,5 +1,5 @@
 # Fili Oakenshield
-![Shire](shire.jpeg)
+![Shire](shire_night.jpeg)
 
 # About Me
 Below are a couple of notes about myself

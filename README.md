@@ -1,7 +1,7 @@
 # Fili Oakenshield
-![Shire](shire_night.jpeg)
-
+![Fili](the_boys.jpeg)
 # About Me
+![Shire](shire_night.jpeg)
 Below are a couple of notes about myself
 - 👋 Hi, I’m Fili
 - 👀 I’m interested in lots of things doncha know

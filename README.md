@@ -1,4 +1,4 @@
-## About Me ✨
+## About Me 
 ---
 * Love ASIC Design and Verification 🔲
 * The perfect meal is a medium-rare steak (pull it out at 135 degrees), with a side of homemade mashed potatoes and roasted asparagus 🥩🥔🌿
